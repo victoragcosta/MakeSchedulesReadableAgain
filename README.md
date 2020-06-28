@@ -1,2 +1,3 @@
-# make_sigaa_readable
-This is an Extension for Chrome that makes the class time more human friendly on SIGAA platform
+# Make SIGAA Readable
+
+This is an Extension for Chrome that makes the class timetable more human friendly on SIGAA platform
